@@ -77,8 +77,6 @@ https://github.com/LEE-GEEWOO/Android_Project
 
 ![image](https://github.com/user-attachments/assets/22b7412a-bc66-4b9c-9adf-807a5c39f44b)
 
-Phone : +82 010-2815-1718
-
 Mail  : taylor1718@naver.com
 
 Git : https://github.com/LEE-GEEWOO
